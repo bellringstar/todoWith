@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.tdw.todowith.domain.BaseTimeEntity;
 import com.tdw.todowith.domain.memberteam.MemberTeam;
+import com.tdw.todowith.domain.work.Work;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
