@@ -33,3 +33,5 @@
 ## ERD
 ### 초기
 ![initialtodoWith.png](images%2FinitialtodoWith.png)
+### 댓글 별도 테이블로 분리
+![todoWith (1).png](images%2FtodoWith%20%281%29.png)
